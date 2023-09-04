@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/icebreaker-roulette/static/css/main.073c9b0a.css",
-    "main.js": "/icebreaker-roulette/static/js/main.2c34f755.js",
+    "main.js": "/icebreaker-roulette/static/js/main.70c1dce6.js",
     "index.html": "/icebreaker-roulette/index.html",
     "main.073c9b0a.css.map": "/icebreaker-roulette/static/css/main.073c9b0a.css.map",
-    "main.2c34f755.js.map": "/icebreaker-roulette/static/js/main.2c34f755.js.map"
+    "main.70c1dce6.js.map": "/icebreaker-roulette/static/js/main.70c1dce6.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2c34f755.js"
+    "static/js/main.70c1dce6.js"
   ]
 }
